@@ -16,6 +16,10 @@ It includes four basic stages
 
 4 Continuous Deployment
 
+![Devops](https://user-images.githubusercontent.com/109480362/226169902-20460c37-f3ee-4db7-acd0-64e1ffb1648f.jpg)
+
+
+
 **What is DevOps Culture**
 
 DevOps culture refers to a set of values, principles, and practices that aim to foster collaboration, communication, and continuous improvement between development 
@@ -62,6 +66,9 @@ The main difference between the Waterfall and Agile models of software developme
 The Waterfall model is a linear, sequential approach where each stage of the development process is completed before moving on to the next.
 In contrast, the Agile model is an iterative approach that focuses on delivering working software in small increments, with each iteration 
 building on the previous one.
+
+![waterfall](https://user-images.githubusercontent.com/109480362/226170276-a58a5d9c-c803-4cc3-bd1c-5666e8961f6c.jpg)
+![agile](https://user-images.githubusercontent.com/109480362/226170280-c109b68d-cd79-4265-9505-63e2122b0e47.jpg)
 
 **History Of DevOps?**
 
