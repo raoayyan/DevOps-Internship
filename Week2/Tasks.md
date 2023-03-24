@@ -105,6 +105,9 @@ In summary, an MVP is a basic version of a product that is designed to test the 
 while minimizing development time and costs. By starting with an MVP, companies can create products that are more likely to succeed in the market,
 while avoiding the risk of investing in features that may not be needed or wanted by their target audience.
 
+**Resource:**
+
+https://www.youtube.com/watch?v=PeFw7M1Y1zE
 
 **Basic understanding of Test Driven Development and Behavior driven Development:**
 
@@ -138,6 +141,10 @@ In conclusion, TDD and BDD are software development methods that put an emphasis
 While BDD focuses on defining the behavior of the system in terms of user stories or scenarios, TDD includes writing tests before writing any code. 
 Both methodologies encourage cooperation and conversation among developers, testers, and stakeholders, which can result in better maintainability, 
 higher-quality code, and quicker development.
+
+**Resource:**
+
+https://www.youtube.com/watch?v=NVAgz0e8rsk
 
 **What are Cloud Native Microservices?**
 
@@ -174,6 +181,10 @@ infrastructure.
 In conclusion, Cloud Native Microservices are a type of software design that makes use of cloud computing and microservices principles to create extremely scalable
 and resilient applications. Cloud Native Microservices offer several advantages, such as scalability, resilience, agility, and cost-effectiveness. They are created 
 to operate in a distributed environment where each microservice is separately developed and deployed.
+
+**Resource:**
+
+https://www.youtube.com/watch?v=YrGcb_zaE3s
 
 **Why test Driven Development is important for DevOps?**
 
