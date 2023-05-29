@@ -114,4 +114,4 @@ authentication mechanisms, role-based access controls (RBAC), and least privileg
 Continuous Monitoring and Incident Response: Continuous monitoring helps detect security incidents, anomalous behavior, or policy violations in 
 real-time. Incident response processes should be established to promptly respond to and mitigate security breaches or security-related events.
 By integrating security into the DevOps practices and processes, organizations can minimize security risks, identify vulnerabilities early, and 
-build secure and resilient software systems.
+build secure and resilient software systems..
